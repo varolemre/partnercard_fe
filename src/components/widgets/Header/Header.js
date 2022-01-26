@@ -6,12 +6,10 @@ export default ({ children, img }) => {
   return (
     <Layout
       style={{
-        background: "url(" + img + ") center/cover"
-      }}
-      col="1"
+        height: 100      }}
       mode="dark"
     >
-      <div className={styles.header}>
+      <div>
         <h1>{children}</h1>
       </div>
     </Layout>

@@ -24,6 +24,8 @@ import Portfolio2 from "./Portfolio2/Portfolio2";
 import Partners from "./Partners/Partners";
 import Project from "./Project/Project";
 import Numbers from "./Numbers/Numbers";
+import Login from "./Login/Login";
+import SignUp from "./SignUp/SignUp";
 
 export {
   Features,
@@ -52,4 +54,6 @@ export {
   Partners,
   Project,
   Numbers,
+  Login,
+  SignUp,
 };

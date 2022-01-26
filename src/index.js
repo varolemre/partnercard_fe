@@ -8,6 +8,7 @@ import "./index.scss";
 import "line-awesome/dist/line-awesome/css/line-awesome.min.css";
 import ScrollToTop from "./utilities/scrollToTop";
 import App from "./App";
+import "./i18n";
 
 import Mock from "./state/mock";
 import "./state/database";

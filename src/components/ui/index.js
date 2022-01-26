@@ -7,6 +7,8 @@ import RequestForm from "./RequestForm/RequestForm";
 import InputDiscount from "./InputDiscount/InputDiscount";
 import ModalForm from "./ModalForm/ModalForm";
 import ModalVideo from "./ModalVideo/ModalVideo";
+import LoginForm from "./Login/LoginForm.js";
+import SignUp from "./SignUp/SignUp";
 
 export {
   CardBase,
@@ -18,4 +20,6 @@ export {
   ModalForm,
   ModalVideo,
   RequestForm,
+  LoginForm,
+  SignUp,
 };

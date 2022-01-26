@@ -10,6 +10,8 @@ import PostSingle from "./PostSingle/PostSingle";
 import ServiceSingle from "./ServiceSingle/ServiceSingle";
 import MemberCard from "./MemberCard/MemberCard";
 import PortfolioSingle from "./PortfolioSingle/PortfolioSingle";
+import Login from "./Login/Login";
+import SignUp from "./SignUp/SignUp";
 
 export {
   Home,
@@ -24,4 +26,6 @@ export {
   ServiceSingle,
   MemberCard,
   PortfolioSingle,
+  Login,
+  SignUp
 };
