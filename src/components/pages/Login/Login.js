@@ -7,7 +7,7 @@ export default () => {
 
   return (
     <Fragment>
-      <Header img={state.data.header_bgs.contacts}>Our contacts</Header>
+      <Header img={state.data.header_bgs.contacts}></Header>
       <Login />
     </Fragment>
   );

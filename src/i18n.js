@@ -13,6 +13,14 @@ i18n.use(initReactI18next).init({
                 password: "Password",
                 firstName: "First Name",
                 lastName: "Last Name",
+                phoneNumber: "Phone Number",
+                customerCode: "Customer Code",
+                gender: "Gender",
+                birthDate: "Birth Date",
+                men:"Men",
+                women:"Women",
+                campainSms: "",
+                registerAgrement:""
             }
         },
         tr: {
@@ -25,6 +33,14 @@ i18n.use(initReactI18next).init({
                 password: "Parola",
                 firstName: "Adınız",
                 lastName: "Soyadınız",
+                phoneNumber: "Telefon Numarası",
+                customerCode: "Müşteri Kodu",
+                gender: "Cinsiyet",
+                birthDate: "Doğum Tarihi",
+                men:"Erkek",
+                women:"Kadın",
+                campainSms: "Tarafımla bilgilendirme ve kampanya amaçlı iletişime geçilmesine ve sms atılmasına izin veriyorum.",
+                registerAgrement: "Üyelik sözleşmesi ve Kullanım Koşulları’nı okudum ve kabul ediyorum."
             }
         }
     },
